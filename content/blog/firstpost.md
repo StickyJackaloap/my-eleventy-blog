@@ -1,25 +1,7 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
-tags: another tag
+title: Howdy
+description: This is the first post on my blog, mostly to get past asking myself what I should post first.
+date: 2026-02-08
+tags: General
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-## Section Header
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
-
-```diff-js
- // this is a command
- function myCommand() {
-+  let counter = 0;
--  let counter = 1;
-   counter++;
- }
-
- // Test with a line break above this line.
- console.log('Test');
-```
+Howdy! Hello, hi, whatever other greeting in the English language, howdy sits atop the throne as the pinnacle of English greetings. The result of <a href="https://en.wikipedia.org/wiki/Howdy" target=_blank>mashing together "how do ye"</a> created a jovial fun-on-the-tongue word that starts any interaction off on the right foot.

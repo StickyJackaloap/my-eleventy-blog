@@ -1,9 +1,9 @@
 ---js
 const eleventyNavigation = {
 	key: "About",
-	order: 3
+	order: 2
 };
 ---
 # About
 
-I am a person that writes stuff.
+At the heart of it, I like figuring out how things work and building systems. Mostly that happens in my garden or my work as (mostly) a non-profit marketer.
